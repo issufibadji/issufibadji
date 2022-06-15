@@ -7,8 +7,8 @@
 
 <div align="center">
  <a href="https://github.com/issufibadji">
-  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=issufibadji&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="160em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issufibadji&layout=compact&langs_count=8&theme=radical">
+  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=issufibadji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issufibadji&layout=compact&langs_count=8&theme=dracula">
 </div>
 
   <div align="center"><br>
@@ -31,6 +31,12 @@
 ##
 
 <div align="center"> 
-  <a href = "mailto:vitorhonna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitorhonna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:issufibadji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/issufibadji/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
+ <a href="https://github.com/issufibadji" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+ <a href="https://instagram.com/issufibj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
