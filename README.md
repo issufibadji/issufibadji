@@ -20,11 +20,11 @@
  <br><br>
  ## 🛠 &nbsp;Tech Stack
  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!--0![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;-->
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -68,31 +68,7 @@
     <img align="center" src="https://img.shields.io/badge/Facebook-05122A?style=flate&logo=facebook" alt="facebook"/>
    </a>
 </p>
- 
-<!--
-<div align="center"> 
-   <a href = "mailto:issufibadji@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-   </a>
-   <a href="https://www.linkedin.com/in/issufibadji/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a>
-   <a href="https://github.com/issufibadji" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-    </a>
-    <a href="https://instagram.com/issufibj" target="_blank">
-       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-     </a>
-     <a href="#" target="_blank">
-       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-     </a>
-     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-     </a>
-   -->
+
  <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=issufibadji2&layout=wide&show_reply=off&show_retweet=off" />
  
  ![Snake animation](https://github.com/issufibadji/issufibadji/blob/output/github-contribution-grid-snake.svg)
