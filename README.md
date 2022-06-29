@@ -1,11 +1,9 @@
 ## Oi! 😃 Sou Issufi Badji, Desenvolvidor de Software.
 
 
-
 - 🔥 Atualmente trabalho como  web developer Full stacks
-- 🌱 Estudando Typscript e aperfeiçoando o meu node.js
+- 🌱 Estudando Typscript e aperfeiçoando o meu node.js 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [issufibadji.github.io/portfolio/](https://issufibadji.github.io/portfolio/)
-
 
 <br><br>
 
