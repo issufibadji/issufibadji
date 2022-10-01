@@ -35,7 +35,7 @@
  
 <div align="center">
   <img height="160em" alt="Web developer" src="https://github.com/issufibadji/issufibadji/blob/master/.github/workflows/dev.gif">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@username&langs_count=8&theme=radical&layout=compact"> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@issufibadji&langs_count=8&theme=radical&layout=compact">
   <img height="160em" alt="Web developer" src="https://github.com/issufibadji/issufibadji/blob/master/.github/workflows/webdeveloper.gif">
 </div>
 
